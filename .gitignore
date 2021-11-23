@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+CSDMC2010_SPAM/
+processed_emails/
+venv/
