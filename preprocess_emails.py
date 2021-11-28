@@ -181,8 +181,8 @@ def _get_capital_runs(text):
 
 def _get_word_freq(words, text):
     count = {w : 0 for w in words}
-
     text_list = text.split(" ")
+
     
     for freq_word in count.keys():
         for word in text_list:
