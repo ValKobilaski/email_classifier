@@ -131,3 +131,5 @@ dmypy.json
 CSDMC2010_SPAM/
 processed_emails/
 venv/
+features.csv
+
